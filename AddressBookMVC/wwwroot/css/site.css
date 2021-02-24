@@ -1,0 +1,129 @@
+﻿.heading {
+    font-family: 'Century Gothic', 'Futura', san-serif;
+    margin: 0%;
+    padding-top: 36px;
+    padding-bottom: 36px;
+    padding-left: 24px;
+    width: 100%;
+    font-size: 50px;
+    background-color: #3399cc;
+    color: #feffff;
+}
+
+.body {
+    overflow-x: hidden;
+    width: 100%;
+    margin: 0%;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.navBar ul {
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    list-style-type: none;
+    margin: 0;
+    padding: 0%;
+    overflow: hidden;
+    background-color: #333333;
+}
+
+.navBar li {
+    float: left;
+    font-size: 15px;
+}
+
+    .navBar li:last-child {
+        float: right;
+        padding-right: 25px;
+        padding-top: 4px;
+    }
+
+.navBar a {
+    display: block;
+    padding: 8px 20px 8px 20px;
+    color: #feffff;
+    text-decoration: none;
+}
+
+.unstyled-button {
+    border: none;
+    padding: 0;
+    background: none;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.form-popup {
+    width: 750px;
+    position: fixed;
+    bottom: 27px;
+    right: 190px;
+    border: 3px solid #f1f1f1;
+    box-shadow: 0px 0px 15px 7px rgb(182, 179, 179);
+    background-color: white;
+}
+
+textarea {
+    border-width: 2px;
+    border-style: solid;
+    overflow-y: scroll;
+    resize: none;
+    min-height: 100px;
+    max-height: 100px;
+    width: 100%;
+}
+
+label {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.pad-r-30 {
+    padding-right: 30px;
+}
+
+.add-button {
+    background-color: #468C00;
+    color: white;
+    width: 145px;
+    border-radius: 0;
+}
+
+.contact-head {
+    padding: 35px 0 0 15px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.contact-list {
+    width: 500px;
+    padding: 5px 0 0 15px;
+}
+
+.f-size-25 {
+    font-size: 25px;
+}
+
+.show-data-style {
+    margin-top: 70px;
+}
+
+    .show-data-style a {
+        color: black;
+        text-decoration: none;
+    }
+
+.bold {
+    font-weight: bold;
+}
+
+.contact-list-group li:hover, .activeElement {
+    background-color: #CEE7F2;
+}
+
+.no_decoration {
+    color: black;
+    text-decoration: none;
+}

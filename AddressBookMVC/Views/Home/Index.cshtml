@@ -1,0 +1,8 @@
+﻿@model IEnumerable<AddressBookMVC.Models.Contact>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="col-3">
+    @await Html.PartialAsync("_ContactList", Model.ToList())
+</div>

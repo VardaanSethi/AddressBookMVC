@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - AddressBookMVC</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header class="heading">
+        Address Book
+    </header>
+    <div class="body">
+        <nav class="navBar">
+            <ul>
+                <li><a href="/">HOME</a></li>
+                <li><a href="/add/index" type="button" class="unstyled-button" id="nav_add_btn">+ADD</a></li>
+                <li><img src="~/img/blog-icon.png"></li>
+            </ul>
+        </nav>
+        @RenderBody()
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

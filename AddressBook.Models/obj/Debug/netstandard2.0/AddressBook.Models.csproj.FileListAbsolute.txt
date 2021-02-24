@@ -1,0 +1,18 @@
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.csprojAssemblyReference.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.AssemblyInfoInputs.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.AssemblyInfo.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.csproj.CoreCompileInputs.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Models\bin\Debug\netstandard2.0\AddressBook.Models.deps.json
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Models\bin\Debug\netstandard2.0\AddressBook.Models.dll
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Models\bin\Debug\netstandard2.0\AddressBook.Models.pdb
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.dll
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.pdb
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Models\bin\Debug\netstandard2.0\AddressBook.Models.deps.json
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Models\bin\Debug\netstandard2.0\AddressBook.Models.dll
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Models\bin\Debug\netstandard2.0\AddressBook.Models.pdb
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.csprojAssemblyReference.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.AssemblyInfoInputs.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.AssemblyInfo.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.csproj.CoreCompileInputs.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.dll
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Models\obj\Debug\netstandard2.0\AddressBook.Models.pdb

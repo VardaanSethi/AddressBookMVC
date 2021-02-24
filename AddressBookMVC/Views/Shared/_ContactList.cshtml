@@ -1,0 +1,16 @@
+﻿@model IEnumerable<AddressBookMVC.Models.Contact>
+
+<div class="row">
+    <div class="col-md-4">
+        <h4 class="contact-head">CONTACTS</h4>
+        <div>
+            <ul class="list-group contact-list rounded-0 contact-list-group" id="contactlist">
+                @foreach (var contact in Model)
+                {
+                    <li class='list-group-item'><a class="no_decoration" href="/details/index/@contact.Id"><span class='f-size-25'>@contact.Name</span><br />@contact.Email<br />@contact.Mobile</a></li>
+                }
+            </ul>
+        </div>
+    </div>
+    <div class="col-md-8"></div>
+</div>

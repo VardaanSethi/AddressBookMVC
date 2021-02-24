@@ -1,0 +1,49 @@
+﻿@model AddressBookMVC.Models.Contact
+@{
+    ViewData["Title"] = "Add";
+    var contactList = (List<AddressBookMVC.Models.Contact>)ViewData["contact"];
+}
+
+<div class="col-3">
+    @await Html.PartialAsync("_ContactList", contactList)
+</div>
+<div class="form-popup" id="addContactForm">
+    <form class="row" id="myForm" method="post" asp-controller="Add" asp-action="Index">
+        <div class="form-row m-2">
+            <div class="form-group col-md-12 px-4 pad-r-30 m-0 py-1">
+                <label>Name</label>
+                <input name="Name" type="text" class="form-control border-dark rounded-0 " id="name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-12 px-4 m-0 py-1">
+                <label>Email</label>
+                <input name="Email" type="text" class="form-control border-dark rounded-0" id="email">
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group col-md-6 px-4 m-0 py-1">
+                <label>Mobile</label>
+                <input name="Mobile" type="text" class="form-control border-dark rounded-0" id="mobile">
+            </div>
+            <div class="form-group col-md-6 pr-4 m-0 py-1">
+                <label>Landline</label>
+                <input name="Landline" type="text" class="form-control border-dark rounded-0" id="landline">
+            </div>
+            <div class="form-group col-md-12  px-4 m-0 py-1">
+                <label>Website</label>
+                <input name="Website" type="text" class="form-control border-dark rounded-0" id="website">
+            </div>
+            <div class="form-group col-md-12 px-4 m-0 py-1">
+                <label>Address</label>
+            </div>
+            <div class="form-group col-md-12 px-4 m-0 py-1">
+                <textarea id="address" name="address"></textarea>
+            </div>
+        </div>
+        <div class="float-right">
+            <div class="pr-4 mb-2" id="formButton">
+                <button type="submit" class="btn add-button float-right" id="add_btn">Add</button>
+                <a href="/" type="submit" class="btn add-button float-right mr-2" id="cancel_btn">Cancel</a>
+            </div>
+        </div>
+    </form>
+</div>

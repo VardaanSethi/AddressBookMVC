@@ -1,0 +1,24 @@
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Services\obj\Debug\netstandard2.0\AddressBook.Services.csprojAssemblyReference.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Services\obj\Debug\netstandard2.0\AddressBook.Services.AssemblyInfoInputs.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Services\obj\Debug\netstandard2.0\AddressBook.Services.AssemblyInfo.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Services\obj\Debug\netstandard2.0\AddressBook.Services.csproj.CoreCompileInputs.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Services\bin\Debug\netstandard2.0\AddressBook.Services.deps.json
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Services\bin\Debug\netstandard2.0\AddressBook.Services.dll
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Services\bin\Debug\netstandard2.0\AddressBook.Services.pdb
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Services\bin\Debug\netstandard2.0\AddressBook.Models.dll
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Services\bin\Debug\netstandard2.0\AddressBook.Models.pdb
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Services\obj\Debug\netstandard2.0\AddressBook.Services.csproj.CopyComplete
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Services\obj\Debug\netstandard2.0\AddressBook.Services.dll
+D:\Training\ASP .NET\AddressBookMVC\AddressBook.Services\obj\Debug\netstandard2.0\AddressBook.Services.pdb
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Services\bin\Debug\netstandard2.0\AddressBook.Services.deps.json
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Services\bin\Debug\netstandard2.0\AddressBook.Services.dll
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Services\bin\Debug\netstandard2.0\AddressBook.Services.pdb
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Services\bin\Debug\netstandard2.0\AddressBook.Models.dll
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Services\bin\Debug\netstandard2.0\AddressBook.Models.pdb
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Services\obj\Debug\netstandard2.0\AddressBook.Services.csprojAssemblyReference.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Services\obj\Debug\netstandard2.0\AddressBook.Services.AssemblyInfoInputs.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Services\obj\Debug\netstandard2.0\AddressBook.Services.AssemblyInfo.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Services\obj\Debug\netstandard2.0\AddressBook.Services.csproj.CoreCompileInputs.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Services\obj\Debug\netstandard2.0\AddressBook.Services.csproj.CopyComplete
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Services\obj\Debug\netstandard2.0\AddressBook.Services.dll
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBook.Services\obj\Debug\netstandard2.0\AddressBook.Services.pdb

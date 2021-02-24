@@ -1,0 +1,130 @@
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.exe
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.deps.json
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.runtimeconfig.json
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.runtimeconfig.dev.json
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.dll
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.pdb
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.Views.dll
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.Views.pdb
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.AssemblyInfoInputs.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.AssemblyInfo.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.csproj.CoreCompileInputs.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorAssemblyInfo.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorAssemblyInfo.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\staticwebassets\AddressBookMVC.StaticWebAssets.Manifest.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\staticwebassets\AddressBookMVC.StaticWebAssets.xml
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\AddressBookMVC.styles.css
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.TagHelpers.input.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.TagHelpers.output.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorCoreGenerate.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorTargetAssemblyInfo.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorTargetAssemblyInfo.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.Views.pdb
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.dll
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.pdb
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.genruntimeconfig.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.csproj.CopyComplete
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Details\Index.cshtml.g.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Add\Index.cshtml.g.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Edit\Index.cshtml.g.cs
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.exe
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.deps.json
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.runtimeconfig.json
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.runtimeconfig.dev.json
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.dll
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.pdb
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.Views.dll
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.Views.pdb
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.csprojAssemblyReference.cache
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.AssemblyInfoInputs.cache
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.AssemblyInfo.cs
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.csproj.CoreCompileInputs.cache
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorAssemblyInfo.cache
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorAssemblyInfo.cs
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\staticwebassets\AddressBookMVC.StaticWebAssets.Manifest.cache
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\staticwebassets\AddressBookMVC.StaticWebAssets.xml
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\AddressBookMVC.styles.css
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.TagHelpers.input.cache
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.TagHelpers.output.cache
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorCoreGenerate.cache
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Add\Index.cshtml.g.cs
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Details\Index.cshtml.g.cs
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Edit\Index.cshtml.g.cs
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorTargetAssemblyInfo.cache
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorTargetAssemblyInfo.cs
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.Views.pdb
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.dll
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.pdb
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.genruntimeconfig.cache
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.csproj.CopyComplete
+D:\Training\AngWebApi\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ContactList.cshtml.g.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ContactList.cshtml.g.cs
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.csprojAssemblyReference.cache
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBook.Models.dll
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBook.Services.dll
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBook.Models.pdb
+D:\Training\ASP .NET\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBook.Services.pdb
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.exe
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.deps.json
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.runtimeconfig.json
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.runtimeconfig.dev.json
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.dll
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.pdb
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.Views.dll
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBookMVC.Views.pdb
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBook.Models.dll
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBook.Services.dll
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBook.Models.pdb
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\bin\Debug\netcoreapp3.1\AddressBook.Services.pdb
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.csprojAssemblyReference.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.AssemblyInfoInputs.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.AssemblyInfo.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.csproj.CoreCompileInputs.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorAssemblyInfo.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorAssemblyInfo.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\staticwebassets\AddressBookMVC.StaticWebAssets.Manifest.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\staticwebassets\AddressBookMVC.StaticWebAssets.xml
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\scopedcss\bundle\AddressBookMVC.styles.css
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.TagHelpers.input.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.TagHelpers.output.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorCoreGenerate.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Add\Index.cshtml.g.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Details\Index.cshtml.g.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Edit\Index.cshtml.g.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ContactList.cshtml.g.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorTargetAssemblyInfo.cache
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.RazorTargetAssemblyInfo.cs
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.Views.pdb
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.csproj.CopyComplete
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.dll
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.pdb
+C:\Users\Vardaan.s\Desktop\AddressBookMVC\AddressBookMVC\obj\Debug\netcoreapp3.1\AddressBookMVC.genruntimeconfig.cache

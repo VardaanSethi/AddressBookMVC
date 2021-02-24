@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KEGDngebueHKPRUyptOLZXDAaMmFgBL3IU1568owI9PgkE/T8afw5YWka/ghjRcsXJB3H7U3QXHJb7vNiARzGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vardaan.s\\Desktop\\AddressBookMVC\\AddressBookMVC\\AddressBookMVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vardaan.s\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,27 @@
+﻿@model AddressBookMVC.Models.Contact
+@{
+    ViewData["Title"] = "Details";
+    var contactList = (List<AddressBookMVC.Models.Contact>)ViewData["contact"];
+}
+
+<div class="row">
+    <div class="col-md-4">
+        @await Html.PartialAsync("_ContactList", contactList)
+    </div>
+
+    <div class="col-md-8">
+        <div class="row">
+            <div class="col-md-2"></div>
+            <div class="col-md-5 show-data-style" id="presentData">
+                <span class='f-size-25 bold'> @Model.Name</span><br><br>Email: @Model.Email<br><br>Mobile: @Model.Mobile
+                <br>Landline: @Model.Landline<br><br>Website: " @Model.Website
+                <br><br>Address: @Model.Address
+            </div>
+            <div class="col-md-3 show-data-style" id="showFunctionButtons">
+                <a href="/edit/index/@Model.Id" class='pad-r-30' id='edit'><img src='~/img/edit1.jpg' 15' height='15'> EDIT</a>
+                <a href="/delete/index/@Model.Id" id='delete'><img src='~/img/delete2.png'> DELETE</a>
+            </div>
+            <div class="col-md-2"></div>
+        </div>
+    </div>
+</div>
